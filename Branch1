@@ -1,0 +1,14 @@
+GIT:
+Git is a version control system.
+It keeps track of:
+•	What changed
+•	Who changed it
+•	When it changed
+•	Allows going back to older versions
+Think of Git as: A camera that takes snapshots of your project.
+GITHUB:
+Imagine Git is your notebook.
+GitHub is the cloud storage where that notebook is stored.
+Example
+Git = Writing diary at home
+GitHub = Keeping a copy online
