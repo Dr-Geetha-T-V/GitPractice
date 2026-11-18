@@ -1,2 +1,2 @@
-# GitPractice
-Learning Git and GitHub basics
+Git Practice
+This repository is created for learning Git and GitHub.
